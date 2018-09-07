@@ -5,6 +5,8 @@ A script that checks the forging status of your node and enables it if required.
 
 Only compatible with Lisk Core 1.0 and up.
 
+If you like this software, please consider a donation =] `6725360537423611335L`
+
 ## Installation & configuration
 ```
 git clone https://github.com/Lemii/lisk-autotoggler
