@@ -1,5 +1,4 @@
 # Lisk Auto-Toggler
-##### Current version: 1.0.2
 
 A script that checks the forging status of your node and enables it if required. Appends a new log entry each time it is run. 
 
@@ -21,11 +20,14 @@ Open script and enter your public key and password.
 ```
 crontab -e
 ```
-Add line (run script every 5 minutes):
+Add line (run script every minute):
 
 ```
-*/5 * * * * /usr/bin/python [path to lisk-autotoggler.py here]
+* * * * * /usr/bin/python [path to lisk-autotoggler.py here]
 ```
 
 #### ..or run the .py script manually:
 $ python lisk-autotoggler.py
+
+## License
+Licensed under the [MIT license](https://github.com/Lemii/lisk-autotoggler/blob/master/LICENSE)
