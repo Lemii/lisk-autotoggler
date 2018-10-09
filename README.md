@@ -4,7 +4,7 @@ A script that checks the forging status of your node and enables it if required.
 
 Only compatible with Lisk Core 1.0 and up.
 
-If you like this software, please consider a donation =] `6725360537423611335L`
+If you find my tools useful, please consider voting for my delegate `lemii` or donating to `5222060513855166167L`. Thanks!
 
 ## Installation & configuration
 ```
